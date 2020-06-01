@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OhBoy
+Type=Application
+Exec=ohboy.gcw0 %f
+Icon=ohboy
+Comment=GB/GBC Emulator
+Terminal=false
+Categories=emulators;
+MimeType=application/x-gameboy-rom;application/x-gbc-rom;application/zip;application/gzip;
